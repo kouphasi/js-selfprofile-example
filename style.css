@@ -1,1 +1,12 @@
 /* 以下にデザインを書いてみよう！！ */
+html {
+  background-color: rgb(135, 158, 222);
+}
+
+.myphoto {
+  width: 100%;
+}
+
+.subtitle {
+  color: red;
+}
